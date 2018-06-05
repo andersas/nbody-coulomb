@@ -1,1 +1,1 @@
-# This repository has been moved to andersaspegren.dk/code
+# This repository has been moved to https://andersaspegren.dk/code
