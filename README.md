@@ -1,2 +1,1 @@
-# nbody-coulomb
-Simulate coulomb explosion of molecules
+# This repository has been moved to andersaspegren.dk/code
